@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Almas Hossain Antar",
+        "email" : "almashossain121@gmail.com",
+        "contract" : [
+            {"phone" : "01521307312"},
+            {"facebook" : "https://www.facebook.com/AlmasHossain"},
+            {"whatsapp" : "https://www.whatsapp.com/AlmasHossain"},
+            {"twitter" : "https://www.twitter.com/AlmasHossain"}
+        ],
+        "skill" : ["JavaScript","Oracle","MySql","php","Bootstrap","Angular"],
+        "isMaried" : false
+
+    },
+    {
+        "name" : "Almas Hossain Antar",
+        "email" : "almashossain121@gmail.com",
+        "contract" : [
+            {"phone" : "01724708748"},
+            {"facebook" : "https://www.facebook.com/AlamHossain"},
+            {"whatsapp" : "https://www.whatsapp.com/AlamHossain"},
+            {"twitter" : "https://www.twitter.com/AlamHossain"}
+        ],
+        "skill" : ["Bangla","English","Hinde","Bangla litterature"],
+        "isMaried" : true 
+    }
+]
